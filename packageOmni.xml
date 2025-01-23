@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>GCHP_MP_PhoneDirectory_GCHPMemberPortal_1</members>
+        <name>OmniUiCard</name>
+    </types>
+    <types>
+        <members>GCHPNCQA_PCPChangeOS_multiLanguage_1</members>
+        <name>OmniScript</name>
+    </types>
+    <version>62.0</version>
+</Package>
