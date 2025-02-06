@@ -161,10 +161,6 @@
         <name>SharingSet</name>
     </types>
     <types>
-        <members>GCHP_MP_PhoneDirectory_GCHPMemberPortal_1</members>
-        <name>OmniUiCard</name>
-    </types>
-    <types>
         <members>gchp_logo2</members>
         <name>ContentAsset</name>
     </types>
