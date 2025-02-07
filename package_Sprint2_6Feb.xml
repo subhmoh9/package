@@ -181,6 +181,10 @@
 		<name>CustomMetadata</name>
 	</types>
     <types>
+        <members>Case.Member_Services</members>
+        <name>RecordType</name>
+    </types>
+    <types>
         <members>NCQA_Member_Access_Page1</members>
         <name>ExperienceBundle</name>
     </types>
@@ -218,7 +222,7 @@
 		<members>Case.Failed_PCP_Change_Requests</members>
 		<members>Case.In_Progress_PCP_Change_Requests</members>
 		<members>Case.Open_PCP_Change_Requests</members>
-		<members>Case.PCP_Change_Requests_Closed_Last_90_Days</members>
+		<members>Case.PCP_Change_Requests_Closed_Last_30_Days</members>
 		<name>ListView</name>
 	</types>
     <types>
@@ -232,6 +236,7 @@
 	<types>
         <members>Case.NewPCP_AccountID_Reference__c</members>
         <members>GCHP_Related_Quick_Action__mdt.FieldLabel__c</members>
+        <members>Case.Source_of_receipt__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -273,12 +278,11 @@
     <types>
 		<members>GCHP_NCQA_Guest_User_PS</members>
 		<members>GCHP_NCQA_Omnistudio_Guest_US_PS</members>
+        <members>GCHP_NCQA_Portal_Generic_PS</members>
 		<name>PermissionSet</name>
 	</types>
     <types>
 		<members>GCHP Member Access User</members>
-		<members>NCQA Member Access Page Profile</members>
-        <members>GCHP_NCQA_Portal_Generic_PS</members>
 		<name>Profile</name>
 	</types>
     <types>
